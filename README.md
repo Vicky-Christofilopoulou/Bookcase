@@ -1,4 +1,4 @@
-# library
+# Bookcase
 Implement a simulation of a library's functionality in C++.The library consists of a base, a cupboard, and three shelves (in that order).
 
 A book is nothing more than a data structure consisting of the book's title, the author's name, and its ISBN (an integer). Each shelf (either external or internal) hosts some of the books. Each shelf has a maximum capacity of NMax, and the capacity is the same for all shelves.
